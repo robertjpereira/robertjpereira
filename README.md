@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... C#, Pyton, Azure SQL 
+- 🌱 I’m currently learning ... C#, Python, Azure SQL 
 
 
